@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm https://github.com/Ram4GB </h1>
 
-## My project
+## My projects
 
 - [SGU ranking](https://ram4.vercel.app/i/pKydk)
 - [Biện ngọc kim ngân portfolio](https://ram4.vercel.app/i/vhNir)
